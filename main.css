@@ -1,0 +1,40 @@
+h1,
+h2,
+h3,
+h4,
+a,
+p,
+address {
+  font-family: roboto;
+  color: #7d7d7d;
+  text-align: center; 
+
+}
+
+h1 {
+  font-size:50px;
+  text-align: center; 
+
+}
+
+h2 {
+  padding-top: 60px;
+  margin-bottom:-15px;
+  text-align: center; 
+
+
+}
+
+h3 {
+  padding-top: 15px;
+  text-align: center; 
+
+}
+
+img {
+  border-radius: 50%;
+  height: 400px;
+  display: block;
+  margin: auto;
+  padding-top: 40px;
+}
